@@ -1,6 +1,6 @@
 # BT5240: Computational Systems Biology coursework at IIT Madras
 
-This repository consists of my course work in BT5240 that I pursued under Prof. Karthik Raman at IIT Madras during Sping 2020 semester. 
+This repository consists of my course work in [BT5240](https://home.iitm.ac.in/kraman/courses/2021-BT5240/) that I pursued under [Prof. Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) at IIT Madras during Sping 2020 semester. 
 
 # Description of directories
 The directory names are quite self descriptive. Anyways, their descriptions are detailedas follows:
